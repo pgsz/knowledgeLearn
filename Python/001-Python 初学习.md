@@ -22,9 +22,9 @@
 - VSCode [https://code.visualstudio.com/ ](https://code.visualstudio.com/)  --- 下载插件： `python`
 - Jupyter   ---  在线编辑器，适合远程开发
   - `pip install jupyterlab`
-  - <img src="D:\03 - personCode\knowledgeLearn\Python\images\jutyper_install_001.png"  />
+  - <img src=".\images\jutyper_install_001.png"  />
   - `jutyper lab`   --- 浏览器打开一个在线编辑
-  - ![](D:\03 - personCode\knowledgeLearn\Python\images\jutyper_install_002.png)
+  - ![](.\images\jutyper_install_002.png)
   - jupyter 设置为中文：
     - 终端输入： `pip install jupyterlab-language-pack-zh-CN `
     - 重启 `jupyter lab` ，在 setting 里面选择 中文语言包
@@ -43,6 +43,10 @@
 `jupyter` 退出：
 
 - `Ctrl + c`
+
+
+
+![](.\images\git_command.png)
 
 
 

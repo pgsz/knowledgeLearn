@@ -153,7 +153,3 @@ print(type(int('123.456')))  # 报错：invalid literal for int() with base 10: 
 len('456') > len('1234')  # False
 ```
 
-
-
-
-
